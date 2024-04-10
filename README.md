@@ -1,5 +1,5 @@
 # Mobile Robotics in Disaster Scenarios
-This repository contains my review paper and presentation about Mobile Robotics in Disaster Scenarios, submitted to Man-Machine Interaction Institute of RWTH Aachen, for the Seminar: Current Concepts and Trends in the Fields of Robotics and Simulation. 
+This repository contains my review article and presentation about Mobile Robotics in Disaster Scenarios, submitted to the Man-Machine Interaction Institute of RWTH Aachen, for the Seminar: Current Concepts and Trends in the Fields of Robotics and Simulation. 
 
 ## Content
 1. Background and History of Mobile Robotics
